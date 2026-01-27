@@ -69,40 +69,31 @@ const alex = {
 
 </details>
 
-<!-- Premium Content -->
+<!-- Coming Soon -->
 <details open>
-<summary><h2>💎 Premium Content</h2></summary>
+<summary><h2>🚧 Coming Soon</h2></summary>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🆓 [AI Prompts](https://github.com/unisone/ai-prompts)
-**Free** — 29 battle-tested prompts
-
-✅ Coding prompts<br/>
-✅ Prompt techniques<br/>
-✅ Templates<br/>
-✅ Research patterns
-
-<a href="https://github.com/unisone/ai-prompts">
-  <img src="https://img.shields.io/badge/Get_Free_Prompts-2ea44f?style=for-the-badge" alt="Free"/>
-</a>
+### 🤖 MF Chatbot
+AI-powered logistics assistant<br/>
+<sub>Freight quotes, tracking, dispatch</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 🔐 [AI Prompts Pro](https://github.com/sponsors/unisone)
-**$5/month** — Premium prompts for serious builders
+### 📺 YT Transcripts
+YouTube transcript extraction<br/>
+<sub>CLI + API for video content</sub>
 
-⭐ System prompts (Claude Code, Cursor)<br/>
-⭐ Enterprise patterns<br/>
-⭐ Parallel agent orchestration<br/>
-⭐ Monthly updates + new prompts
+</td>
+<td width="33%" align="center">
 
-<a href="https://github.com/sponsors/unisone">
-  <img src="https://img.shields.io/badge/Unlock_Pro_Prompts-6366F1?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Pro"/>
-</a>
+### 🔮 More Tools
+Building in public<br/>
+<sub>Follow for updates</sub>
 
 </td>
 </tr>
