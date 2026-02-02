@@ -139,12 +139,7 @@ Building in public<br/>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=86400&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unisone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
 </p>
 
 <!-- Activity Graph -->
