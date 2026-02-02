@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex%20%F0%9F%94%A5&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20tools%20that%20make%20AI%20accessible&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex%20%F0%9F%94%A5&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agent-driven%20automation%20%26%20dev%20tooling&descAlignY=52&descSize=18"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/unisone">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+the+future+with+AI+%F0%9F%A4%96;Claude+Code+%2B+Cursor+%3D+%F0%9F%9A%80;Ship+fast.+Ship+often." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=60&lines=Agent-driven+automation+%26+dev+tooling;OpenClaw+%2B+Next.js+%3D+%F0%9F%9A%80;Ship+systems%2C+not+demos." />
   </a>
 </p>
 
@@ -37,9 +37,10 @@
 
 ```typescript
 const alex = {
-  mission: "Building tools that make AI accessible",
-  tools: ["Claude Code", "Cursor", "Parallel Agents"],
-  focus: "AI-powered developer tools & applications",
+  mission: "Building agent-driven automation & developer tooling",
+  tools: ["Claude Code", "OpenClaw", "Next.js", "Parallel Agents"],
+  focus: "Turning messy workflows into reliable systems",
+  building: ["openclaw-config", "mf-chatbot-ui", "intel-skill", "ai-prompts"],
   location: "Washington, DC 🇺🇸",
 };
 ```
@@ -51,19 +52,19 @@ const alex = {
 <summary><h2>🔥 Featured Projects</h2></summary>
 
 <p align="center">
-  <a href="https://github.com/unisone/ai-prompts">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=ai-prompts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <a href="https://github.com/unisone/openclaw-config">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=openclaw-config&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/unisone/motion-overlay-app">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=motion-overlay-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <a href="https://github.com/unisone/mf-chatbot-ui">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=mf-chatbot-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/unisone/claude-learner">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=claude-learner&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <a href="https://github.com/unisone/intel-skill">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=intel-skill&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/unisone/Velum-app">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=Velum-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <a href="https://github.com/unisone/ai-prompts">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=ai-prompts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
   </a>
 </p>
 
@@ -77,9 +78,9 @@ const alex = {
 <tr>
 <td width="33%" align="center">
 
-### 🤖 MF Chatbot
-AI-powered logistics assistant<br/>
-<sub>Freight quotes, tracking, dispatch</sub>
+### 🧠 OpenClaw Skills
+More automation packs<br/>
+<sub>Ops, content, integrations</sub>
 
 </td>
 <td width="33%" align="center">
@@ -124,12 +125,12 @@ Building in public<br/>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unisone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unisone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&cache_seconds=86400" />
 </p>
 
 <!-- Activity Graph -->
