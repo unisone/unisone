@@ -51,22 +51,36 @@ const alex = {
 <details open>
 <summary><h2>🔥 Featured Projects</h2></summary>
 
-<p align="center">
-  <a href="https://github.com/unisone/openclaw-config">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=openclaw-config&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/unisone/mf-chatbot-ui">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=mf-chatbot-ui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/unisone/intel-skill">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=intel-skill&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/unisone/ai-prompts">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unisone&repo=ai-prompts&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&cache_seconds=86400" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/unisone/openclaw-config">
+<img src="https://img.shields.io/badge/🔧_openclaw--config-Agent_automation_&_ops-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
+</a>
+<br/><sub>Scheduling, memory pipelines, hardening — real-world OpenClaw deployment patterns</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/unisone/mf-chatbot-ui">
+<img src="https://img.shields.io/badge/💬_mf--chatbot--ui-Production_chat_interface-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
+</a>
+<br/><sub>Next.js + shadcn/ui + Tailwind v4 — logistics chatbot for a real business</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/unisone/intel-skill">
+<img src="https://img.shields.io/badge/🔍_intel--skill-Market_intelligence_CLI-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
+</a>
+<br/><sub>8-mode research workflows for Claude Code — Reddit, X, web, trends</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/unisone/ai-prompts">
+<img src="https://img.shields.io/badge/⚡_ai--prompts-Reusable_prompt_library-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
+</a>
+<br/><sub>29+ curated prompts for faster building — free & open source</sub>
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -125,8 +139,8 @@ Building in public<br/>
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=86400" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=86400&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1&cache_seconds=86400" />
 </p>
 
 <p align="center">
