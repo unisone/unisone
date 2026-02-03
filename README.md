@@ -40,7 +40,7 @@ const alex = {
   mission: "Building agent-driven automation & developer tooling",
   tools: ["Claude Code", "OpenClaw", "Next.js", "Parallel Agents"],
   focus: "Turning messy workflows into reliable systems",
-  building: ["openclaw-config", "mf-chatbot-ui", "intel-skill", "ai-prompts"],
+  building: ["openclaw-config", "mf-chatbot-ui", "claude-toolkit", "intel-skill", "ai-prompts"],
   location: "Washington, DC 🇺🇸",
 };
 ```
@@ -68,16 +68,26 @@ const alex = {
 </tr>
 <tr>
 <td width="50%" align="center">
+<a href="https://github.com/unisone/claude-toolkit">
+<img src="https://img.shields.io/badge/🛠️_claude--toolkit-AI_coding_toolkit-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
+</a>
+<br/><sub>Techdebt scanner + git worktree parallelization — works with any AI coding tool</sub>
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/unisone/intel-skill">
 <img src="https://img.shields.io/badge/🔍_intel--skill-Market_intelligence_CLI-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
 </a>
 <br/><sub>8-mode research workflows for Claude Code — Reddit, X, web, trends</sub>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center">
 <a href="https://github.com/unisone/ai-prompts">
 <img src="https://img.shields.io/badge/⚡_ai--prompts-Reusable_prompt_library-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
 </a>
 <br/><sub>29+ curated prompts for faster building — free & open source</sub>
+</td>
+<td width="50%" align="center">
 </td>
 </tr>
 </table>
