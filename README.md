@@ -1,193 +1,55 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Alex%20%F0%9F%94%A5&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Agent-driven%20automation%20%26%20dev%20tooling&descAlignY=52&descSize=18"/>
-</p>
+<h1 align="center">Alex Zaytsev</h1>
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/unisone">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=60&lines=Agent-driven+automation+%26+dev+tooling;OpenClaw+%2B+Next.js+%3D+%F0%9F%9A%80;Ship+systems%2C+not+demos." />
-  </a>
-</p>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://twitter.com/alexxzay">
-    <img src="https://img.shields.io/badge/𝕏-@alexxzay-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/sponsors/unisone">
-    <img src="https://img.shields.io/badge/Sponsor-❤️-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/>
-  </a>
-  <a href="https://zaydream.com">
-    <img src="https://img.shields.io/badge/zaydream.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
-  </a>
+  <sub>Building agent-driven automation & developer tooling</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/unisone?tab=followers">
-    <img src="https://img.shields.io/github/followers/unisone?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=unisone&label=Profile%20Views&color=6366F1&style=flat" alt="Profile Views"/>
+  <a href="https://x.com/unisone"><img src="https://img.shields.io/badge/𝕏-000000?style=flat&logo=x&logoColor=white" height="20"/></a>&nbsp;
+  <a href="https://linkedin.com/in/alexzay"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" height="20"/></a>&nbsp;
+  <a href="https://zaydream.com"><img src="https://img.shields.io/badge/zaydream.com-000000?style=flat&logo=vercel&logoColor=white" height="20"/></a>&nbsp;
+  <a href="mailto:hello@zaydream.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" height="20"/></a>
+</p>
+
+&nbsp;
+
+### Projects
+
+| | |
+|---|---|
+| **[openclaw-config](https://github.com/unisone/openclaw-config)** | Production OpenClaw deployment — memory pipelines, scheduling, hardening patterns |
+| **[claude-learner](https://github.com/unisone/claude-learner)** | Analyze Claude Code sessions → auto-generate CLAUDE.md improvements |
+| **[openclaw-skill-suite](https://github.com/unisone/openclaw-skill-suite)** | Agent skills for OpenClaw — design inspo, product demos, security scanning |
+| **[intel-skill](https://github.com/unisone/intel-skill)** | Market intelligence in seconds — 8-mode research workflows for Claude Code |
+| **[claude-toolkit](https://github.com/unisone/claude-toolkit)** | Techdebt scanner + git worktree parallelization for AI coding tools |
+| **[ai-prompts](https://github.com/unisone/ai-prompts)** | 29+ curated prompts for faster building — free & open source |
+
+&nbsp;
+
+### Stack
+
+`TypeScript` `Next.js` `React` `Tailwind CSS` `Node.js` `Python` `Supabase` `PostgreSQL` `Vercel`
+
+`Claude Code` `OpenClaw` `Cursor` `Vercel AI SDK`
+
+&nbsp;
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=unisone&theme=dark&hide_border=true&background=00000000&ring=888888&fire=ffffff&currStreakLabel=888888&sideLabels=888888&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
+    <img src="https://streak-stats.demolab.com?user=unisone&hide_border=true&background=ffffff00&ring=888888&fire=000000&currStreakLabel=888888&sideLabels=888888&sideNums=000000&currStreakNum=000000&dates=555555"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=unisone&theme=github-dark&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=888888&area=true&area_color=333333"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unisone&hide_border=true&bg_color=ffffff00&color=888888&line=000000&point=888888&area=true&area_color=dddddd"/>
+  </picture>
 </p>
 
 ---
 
-<!-- About Section -->
-<h2>⚡ About</h2>
-
-```typescript
-const alex = {
-  mission: "Building agent-driven automation & developer tooling",
-  tools: ["Claude Code", "OpenClaw", "Next.js", "Parallel Agents"],
-  focus: "Turning messy workflows into reliable systems",
-  building: ["openclaw-config", "mf-chatbot-ui", "claude-toolkit", "intel-skill", "ai-prompts"],
-  location: "Washington, DC 🇺🇸",
-};
-```
-
-<br/>
-
-<!-- Featured Projects -->
-<details open>
-<summary><h2>🔥 Featured Projects</h2></summary>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/unisone/openclaw-config">
-<img src="https://img.shields.io/badge/🔧_openclaw--config-Agent_automation_&_ops-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
-</a>
-<br/><sub>Scheduling, memory pipelines, hardening — real-world OpenClaw deployment patterns</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/unisone/mf-chatbot-ui">
-<img src="https://img.shields.io/badge/💬_mf--chatbot--ui-Production_chat_interface-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
-</a>
-<br/><sub>Next.js + shadcn/ui + Tailwind v4 — logistics chatbot for a real business</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/unisone/claude-toolkit">
-<img src="https://img.shields.io/badge/🛠️_claude--toolkit-AI_coding_toolkit-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
-</a>
-<br/><sub>Techdebt scanner + git worktree parallelization — works with any AI coding tool</sub>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/unisone/intel-skill">
-<img src="https://img.shields.io/badge/🔍_intel--skill-Market_intelligence_CLI-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
-</a>
-<br/><sub>8-mode research workflows for Claude Code — Reddit, X, web, trends</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/unisone/ai-prompts">
-<img src="https://img.shields.io/badge/⚡_ai--prompts-Reusable_prompt_library-6366F1?style=for-the-badge&labelColor=0D1117" width="380"/>
-</a>
-<br/><sub>29+ curated prompts for faster building — free & open source</sub>
-</td>
-<td width="50%" align="center">
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- Coming Soon -->
-<details open>
-<summary><h2>🚧 Coming Soon</h2></summary>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 OpenClaw Skills
-More automation packs<br/>
-<sub>Ops, content, integrations</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 📺 YT Transcripts
-YouTube transcript extraction<br/>
-<sub>CLI + API for video content</sub>
-
-</td>
-<td width="33%" align="center">
-
-### 🔮 More Tools
-Building in public<br/>
-<sub>Follow for updates</sub>
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<!-- Tech Stack -->
-<details open>
-<summary><h2>🛠️ Tech Stack</h2></summary>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,supabase,postgres,vercel,git,github&perline=6" />
-</p>
-
-<p align="center">
-  <b>AI Tools</b><br/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
-</details>
-
-<!-- GitHub Stats -->
-<details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unisone&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=F97316" width="98%"/>
-</p>
-
-</details>
-
-<!-- Connect -->
-<details open>
-<summary><h2>🤝 Let's Build</h2></summary>
-
-<p align="center">
-  <i>Building with AI? Want to ship faster? Let's talk.</i>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/alexxzay">
-    <img src="https://img.shields.io/badge/DM_on_𝕏-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:hello@zaydream.com">
-    <img src="https://img.shields.io/badge/hello@zaydream.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alexzay">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</details>
-
----
-
-<p align="center">
-  <i>"The best tools disappear into the workflow."</i>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <sub>Ship systems, not demos.</sub>
 </p>
