@@ -33,8 +33,13 @@ survive contact with implementation.
 
 | | |
 |---|---|
-| **[openclaw-config](https://github.com/unisone/openclaw-config)** | Production-tested OpenClaw configs — hardening, memory engine, skill routing, agent personas, CI security scanning |
-| **[self-improving-skills](https://github.com/unisone/self-improving-skills)** | Closed-loop skill improvement for AI coding agents: Observe → Inspect → Amend → Evaluate |
+| **[openclaw-config](https://github.com/unisone/openclaw-config)** ⭐14 | Production-tested OpenClaw configs — hardening, memory engine, skill routing, agent personas, CI security scanning |
+| **[self-improving-skills](https://github.com/unisone/self-improving-skills)** ⭐6 | Closed-loop skill improvement for AI agents: Observe → Inspect → Amend → Evaluate |
+| **[claude-learner](https://github.com/unisone/claude-learner)** | Every mistake becomes a rule — analyzes Claude Code sessions and auto-generates CLAUDE.md improvements |
+| **[intel-skill](https://github.com/unisone/intel-skill)** | Market intelligence in seconds — gaps, competitors, sentiment, pricing, trends. No API keys required |
+| **[claude-toolkit](https://github.com/unisone/claude-toolkit)** | Techdebt scanner + git worktree parallelization for AI coding tools |
+| **[openclaw-skill-suite](https://github.com/unisone/openclaw-skill-suite)** | Curated agent skills — design inspiration, product demo video, security scanning |
+| **[ai-prompts](https://github.com/unisone/ai-prompts)** | Personal AI prompt library, organized by category |
 
 &nbsp;
 
