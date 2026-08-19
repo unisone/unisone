@@ -1,7 +1,7 @@
 <h1 align="center">Alex Zaytsev</h1>
 
 <p align="center">
-  <sub>Building agent-driven automation & developer tooling</sub>
+  <sub>Product systems analyst who ships production AI — 7+ years in ProdOps, now building it</sub>
 </p>
 
 <p align="center">
@@ -13,16 +13,38 @@
 
 &nbsp;
 
-### Projects
+### What I do
+
+I spent seven years as the person who kept streaming products shipping — requirements,
+release management, incident response, and the analytics that told us whether any of it
+worked. Biweekly releases across seven platforms, high-severity incident response, and a
+QA org to run.
+
+Now I build the software too. Most of my current work is a production AI customer
+engagement platform: WhatsApp-first lead handling, autonomous agent routing, freight
+quoting, and an operator console — Next.js, React, Supabase, multi-tenant RLS.
+
+The combination is the point. I write the acceptance criteria *and* the code, so specs
+survive contact with implementation.
+
+&nbsp;
+
+### Open source
 
 | | |
 |---|---|
-| **[openclaw-config](https://github.com/unisone/openclaw-config)** | Production OpenClaw deployment — memory pipelines, scheduling, hardening patterns |
-| **[claude-learner](https://github.com/unisone/claude-learner)** | Analyze Claude Code sessions → auto-generate CLAUDE.md improvements |
-| **[openclaw-skill-suite](https://github.com/unisone/openclaw-skill-suite)** | Agent skills for OpenClaw — design inspo, product demos, security scanning |
-| **[intel-skill](https://github.com/unisone/intel-skill)** | Market intelligence in seconds — 8-mode research workflows for Claude Code |
-| **[claude-toolkit](https://github.com/unisone/claude-toolkit)** | Techdebt scanner + git worktree parallelization for AI coding tools |
-| **[ai-prompts](https://github.com/unisone/ai-prompts)** | 29+ curated prompts for faster building — free & open source |
+| **[openclaw-config](https://github.com/unisone/openclaw-config)** | Production-tested OpenClaw configs — hardening, memory engine, skill routing, agent personas, CI security scanning |
+| **[self-improving-skills](https://github.com/unisone/self-improving-skills)** | Closed-loop skill improvement for AI coding agents: Observe → Inspect → Amend → Evaluate |
+
+&nbsp;
+
+### Currently building
+
+Private work, described rather than linked:
+
+- **AI customer engagement platform** — autonomous WhatsApp agent, freight quoting, proposal generation, real-time operator console. Next.js 16 · React 19 · Supabase · OpenAI
+- **Domain-neutral workflow compiler** — validates declarative domain packs, routes goals without executing them, compiles deterministic plans into verifiable bundles. Zero runtime dependencies
+- **Self-hosted SEO intelligence** — replaces a paid SEO data vendor for multi-market rank tracking and SERP analysis
 
 &nbsp;
 
@@ -30,16 +52,11 @@
 
 `TypeScript` `Next.js` `React` `Tailwind CSS` `Node.js` `Python` `Supabase` `PostgreSQL` `Vercel`
 
-`Claude Code` `OpenClaw` `Cursor` `Vercel AI SDK`
+`Claude Code` `OpenClaw` `Cursor` `Vercel AI SDK` `Playwright` `Vitest`
+
+`Jira` `Confluence` `Datadog` `Amplitude` `Snowflake`
 
 &nbsp;
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=unisone&theme=dark&hide_border=true&background=00000000&ring=888888&fire=ffffff&currStreakLabel=888888&sideLabels=888888&sideNums=ffffff&currStreakNum=ffffff&dates=555555"/>
-    <img src="https://streak-stats.demolab.com?user=unisone&hide_border=true&background=ffffff00&ring=888888&fire=000000&currStreakLabel=888888&sideLabels=888888&sideNums=000000&currStreakNum=000000&dates=555555"/>
-  </picture>
-</p>
 
 <p align="center">
   <picture>
@@ -48,8 +65,6 @@
   </picture>
 </p>
 
----
-
 <p align="center">
-  <sub>Ship systems, not demos.</sub>
+  <sub>Washington, DC · open to AI/GenAI analyst, product ops, and technical PM roles</sub>
 </p>
