@@ -71,5 +71,5 @@ Private work, described rather than linked:
 </p>
 
 <p align="center">
-  <sub>Washington, DC · open to AI/GenAI analyst, product ops, and technical PM roles</sub>
+  <sub>Austin, TX · open to AI/GenAI analyst, product ops, and technical PM roles</sub>
 </p>
