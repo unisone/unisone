@@ -26,7 +26,7 @@ Before the studio: seven years keeping streaming products shipping. ProdOps, rel
 | **AI agents** | WhatsApp and Telegram operators, lead handling, support automation, quoting engines with real business logic | [Client agent builds](#selected-builds), [openclaw-config](https://github.com/unisone/openclaw-config) |
 | **Custom software** | Internal tools, operator consoles, integrations, automation for ops teams | [Selected builds](#selected-builds) |
 | **Web apps and e-commerce** | Next.js storefronts and web apps, Stripe payments, auth, admin dashboards | [ai-prompts](https://github.com/unisone/ai-prompts) (prompt systems behind the builds) |
-| **Marketing automation** | Meta and Google Ads automation with AI: creative variants, budget rules, reporting pipelines | *Playbook repo shipping soon* |
+| **Marketing automation** | Meta and Google Ads automation with AI: creative variants, budget rules, reporting pipelines | Private client service |
 | **AI social** | Content pipelines, scheduling, and AI-assisted creative for Instagram and X | [@unisone.ai](https://instagram.com/unisone.ai) |
 | **3D and web experiences** | Blender automation, Three.js viewers, product configurators | *Pipeline repo shipping soon* |
 | **Advanced AI skills** | Reusable agent skills: evals, PR review, code graphs, GraphRAG, research | [claude-toolkit](https://github.com/unisone/claude-toolkit), [openclaw-skill-suite](https://github.com/unisone/openclaw-skill-suite) |
@@ -61,7 +61,7 @@ Before the studio: seven years keeping streaming products shipping. ProdOps, rel
 ### Currently building
 
 - **Client agent builds** — WhatsApp operators, quoting engines, and review ops for real businesses
-- **Marketing automation playbooks** — Meta and Google Ads with AI creative and budget logic
+- **Marketing automation** — Meta and Google Ads with AI creative and budget logic, delivered as a private client service
 - **The Self-Improving Claude Code Bundle** — the paid pack combining claude-learner and self-improving-skills with a guided setup
 - **claude-learner v2** — MCP-native self-improving agent for Claude Code, on npm
 
