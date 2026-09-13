@@ -1,75 +1,63 @@
-<h1 align="center">Alex Zaytsev</h1>
+![Alex Zaytsev — AI agents that run businesses](assets/banner.webp)
 
 <p align="center">
-  <sub>Product systems analyst who ships production AI — 7+ years in ProdOps, now building it</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=AI+agents+that+run+businesses;Self-improving+Claude+Code+tooling;Production+agent+infrastructure" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://x.com/unisone"><img src="https://img.shields.io/badge/𝕏-000000?style=flat&logo=x&logoColor=white" height="20"/></a>&nbsp;
-  <a href="https://linkedin.com/in/alexzay"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" height="20"/></a>&nbsp;
-  <a href="https://zaydream.com"><img src="https://img.shields.io/badge/zaydream.com-000000?style=flat&logo=vercel&logoColor=white" height="20"/></a>&nbsp;
-  <a href="mailto:hello@zaydream.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" height="20"/></a>
+  <a href="https://x.com/unisone"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/alexzay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://robota.sh"><img src="https://img.shields.io/badge/Robota-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+  <a href="mailto:hello@zaydream.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-&nbsp;
+---
 
 ### What I do
 
-I spent seven years as the person who kept streaming products shipping — requirements,
-release management, incident response, and the analytics that told us whether any of it
-worked. Biweekly releases across seven platforms, high-severity incident response, and a
-QA org to run.
+I'm Alex, founder of [Robota](https://robota.sh), an AI studio building autonomous agents for real businesses. My production work includes a WhatsApp-first AI customer engagement platform: autonomous lead handling, freight quoting with container-fit logic, branded PDF proposals, and a real-time operator console.
 
-Now I build the software too. Most of my current work is a production AI customer
-engagement platform: WhatsApp-first lead handling, autonomous agent routing, freight
-quoting, and an operator console — Next.js, React, Supabase, multi-tenant RLS.
+Before that, seven years keeping streaming products shipping: ProdOps, release management, incident response, QA orgs. Now I write the acceptance criteria *and* the code.
 
-The combination is the point. I write the acceptance criteria *and* the code, so specs
-survive contact with implementation.
+### Featured open source
 
-&nbsp;
-
-### Open source
-
-| | |
+| Project | What it is |
 |---|---|
-| **[openclaw-config](https://github.com/unisone/openclaw-config)** ⭐14 | Production-tested OpenClaw configs — hardening, memory engine, skill routing, agent personas, CI security scanning |
-| **[self-improving-skills](https://github.com/unisone/self-improving-skills)** ⭐6 | Closed-loop skill improvement for AI agents: Observe → Inspect → Amend → Evaluate |
-| **[claude-learner](https://github.com/unisone/claude-learner)** | Every mistake becomes a rule — analyzes Claude Code sessions and auto-generates CLAUDE.md improvements |
-| **[intel-skill](https://github.com/unisone/intel-skill)** | Market intelligence in seconds — gaps, competitors, sentiment, pricing, trends. No API keys required |
-| **[claude-toolkit](https://github.com/unisone/claude-toolkit)** | Techdebt scanner + git worktree parallelization for AI coding tools |
-| **[openclaw-skill-suite](https://github.com/unisone/openclaw-skill-suite)** | Curated agent skills — design inspiration, product demo video, security scanning |
-| **[ai-prompts](https://github.com/unisone/ai-prompts)** | Personal AI prompt library, organized by category |
-
-&nbsp;
+| [**claude-learner**](https://github.com/unisone/claude-learner) | Every mistake becomes a rule. Analyzes Claude Code sessions and auto-generates CLAUDE.md improvements. On npm. |
+| [**self-improving-skills**](https://github.com/unisone/self-improving-skills) | Closed-loop skill maintenance for AI agents: Observe → Inspect → Amend → Evaluate. Zero dependencies. |
+| [**openclaw-config**](https://github.com/unisone/openclaw-config) | Production-tested OpenClaw configs: hardening, memory engine, skill routing, agent personas, CI security scanning. |
+| [**intel-skill**](https://github.com/unisone/intel-skill) | Market intelligence in seconds: gaps, competitors, sentiment, pricing, trends. No API keys required. |
+| [**claude-toolkit**](https://github.com/unisone/claude-toolkit) | Tech-debt scanner + git worktree parallelization for AI coding workflows. |
+| [**ai-prompts**](https://github.com/unisone/ai-prompts) | 46 battle-tested prompts for Claude, GPT, and Gemini, organized by category. |
 
 ### Currently building
 
-Private work, described rather than linked:
-
-- **AI customer engagement platform** — autonomous WhatsApp agent, freight quoting, proposal generation, real-time operator console. Next.js 16 · React 19 · Supabase · OpenAI
-- **Domain-neutral workflow compiler** — validates declarative domain packs, routes goals without executing them, compiles deterministic plans into verifiable bundles. Zero runtime dependencies
-- **Self-hosted SEO intelligence** — replaces a paid SEO data vendor for multi-market rank tracking and SERP analysis
-
-&nbsp;
+- **claude-learner v2** — MCP-native self-improving agent for Claude Code, just launched on npm
+- **The Self-Improving Claude Code Bundle** — the paid pack combining both systems with a guided setup
+- **Client agent builds** — WhatsApp operators, quoting engines, and review ops for real businesses
 
 ### Stack
 
-`TypeScript` `Next.js` `React` `Tailwind CSS` `Node.js` `Python` `Supabase` `PostgreSQL` `Vercel`
-
-`Claude Code` `OpenClaw` `Cursor` `Vercel AI SDK` `Playwright` `Vitest`
-
-`Jira` `Confluence` `Datadog` `Amplitude` `Snowflake`
-
-&nbsp;
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=unisone&theme=github-dark&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=888888&area=true&area_color=333333"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=unisone&hide_border=true&bg_color=ffffff00&color=888888&line=000000&point=888888&area=true&area_color=dddddd"/>
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,python,supabase,postgres,vercel&theme=dark" />
 </p>
 
 <p align="center">
-  <sub>Austin, TX · open to AI/GenAI analyst, product ops, and technical PM roles</sub>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenClaw-10B981?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 </p>
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unisone&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=unisone&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+### Work with me
+
+I take on a small number of AI automation builds: WhatsApp agents, quoting engines, operator consoles. → [robota.sh](https://robota.sh) · hello@zaydream.com
